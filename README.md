@@ -22,7 +22,7 @@ Sou Bacharel em Odontologia pela UFMA e estou em transição de carreira, estou 
 
 ## Sequência no GitHub 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=github-dark&background=151515&border=FFF&dates=79FF97&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=github-dark&background=151515&border=79ff97&dates=79FF97&locale=pt-br)](https://git.io/streak-stats)
 
 <!---
 brenoaug/brenoaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
