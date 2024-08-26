@@ -1,7 +1,7 @@
 
 # Olá
 
-Meu nome é Breno Augusto, tenho 27 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Faculadade Descomplica(no momento, no 2º Período).
+Meu nome é Breno Augusto, tenho 27 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Facuadade Descomplica(no momento, no 2º Período).
 
 Sou Bacharel em Odontologia pela UFMA e estou em transição de carreira, estou muito empenhado neste novo caminho e estou aprendendo bastante nesta minha nova empreitada.
 
