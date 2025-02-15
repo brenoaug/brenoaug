@@ -1,7 +1,7 @@
 
 # Olá
 
-Meu nome é Breno Augusto, tenho 27 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica(no momento, no 2º Período).
+Sou Breno Augusto, um profissional em transição de carreira da Odontologia para a Tecnologia da Informação. Atualmente, sou Estagiário de Suporte ao Usuário em TI na CAEMA e estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica Descomplica. Meu objetivo é me capacitar como Desenvolvedor Full-Stack e contribuir para projetos inovadores na área de TI.
 
 ## Onde me Encontrar
 
