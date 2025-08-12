@@ -6,7 +6,6 @@ Sou Breno Augusto, um profissional em transição de carreira da Odontologia par
 ## Onde me Encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=79ff97)](https://github.com/brenoaug)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=inspire&logoColor=79ff97)](https://www.linkedin.com/in/breaugustocp/)
 [![Instagram](https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=79ff97)](https://www.instagram.com/breaugustocp/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-151515?style=for-the-badge&logo=hackerrank&logoColor=79ff97)](https://www.hackerrank.com/profile/b_augustocp)
 
