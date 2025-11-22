@@ -17,7 +17,7 @@ Sou Breno Augusto, um profissional em transição de carreira da Odontologia par
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaug&layout=compact&hide=html,css&bg_color=151515&border_color=79ff97&title_color=79ff97&text_color=FFF&locale=pt-br&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaug&hide=html,css&bg_color=151515&border_color=79ff97&title_color=79ff97&text_color=FFF&locale=pt-br&hide_title=true)
 
 ## Sequência no GitHub 
 
