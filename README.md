@@ -19,6 +19,26 @@ Minha paixão está em construir **APIs robustas**, trabalhar com **arquiteturas
 
 ---
 
+## 💼 Experiência Profissional
+
+**🔹 Estagiário de Suporte ao Usuário em TI**  
+📍 CAEMA (Companhia de Água e Esgoto do Amapá)  
+📅 Atual
+
+**🔹 Transição de Carreira**  
+📍 Odontologia → Tecnologia da Informação  
+🎯 Foco: Desenvolvimento Back-End
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Análise e Desenvolvimento de Sistemas**  
+🏫 UniAmérica Descomplica  
+📚 Em andamento
+
+---
+
 ## 🎯 Foco Profissional
 
 ```java
@@ -160,10 +180,10 @@ Sistema com **Onion Architecture** em **C#**
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=79ff97)](https://www.linkedin.com/in/breaugustocp/)
 [![GitHub](https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=79ff97)](https://github.com/brenoaug)
 [![Instagram](https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=79ff97)](https://www.instagram.com/breaugustocp/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-151515?style=for-the-badge&logo=hackerrank&logoColor=79ff97)](https://www.hackerrank.com/profile/b_augustocp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=79ff97)](https://linkedin.com/in/brenoaug)
 
 </div>
 
