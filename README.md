@@ -70,7 +70,7 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 ## 📊 Atividade GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brenoaug&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brenoaug&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
