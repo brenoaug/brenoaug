@@ -9,10 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenoaug)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breaugustocp@outlook.com)
 
-<a href="https://www.credly.com/badges/0790c787-5740-4200-bb6c-4eb8536b5d1b/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="120"/>
-</a>
-
 </div>
 
 ---
@@ -38,9 +34,6 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 **💧 CAEMA** | Estagiário de TI  
 *Fevereiro 2025 - Janeiro 2026*
-
-**🎓 Recode** | Capacitação Full Stack e IA 🏆  
-*Novembro 2024 - Julho 2025*
 
 ---
 
@@ -76,17 +69,17 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 <table>
 <tr>
