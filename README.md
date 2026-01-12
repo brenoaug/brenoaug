@@ -80,12 +80,9 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaug&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&langs_count=8"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoaug&theme=github-compact&hide_border=true&bg_color=0d1117&color=79ff97&line=79ff97&point=c9d1d9" alt="Activity Graph"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97)
 
 </div>
 
@@ -93,16 +90,23 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+### 🏥 [Voll Med](https://github.com/brenoaug/voll-med)
+Backend de uma clínica médica com **Java** e **Spring Boot**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=voll-med&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/voll-med)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=hanami-backend&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/hanami-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=loja-online&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/loja-online)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=rabbitmq-exercise&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/rabbitmq-exercise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=conversor-moedas&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/conversor-moedas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=recode-projeto-social&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/recode-projeto-social)
+### 🎤 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
+Projeto Full Stack completo
 
-</div>
+### 🌸 [Hanami Backend](https://github.com/brenoaug/hanami-backend)
+API que processa arquivos CSV com **Java** e **Spring Boot**
+
+### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
+Projeto em **C#/.NET** com Onion Architecture
+
+### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
+API com mensageria em **C#**
+
+### 💱 [Conversor de Moedas](https://github.com/brenoaug/conversor-moedas)
+Conversor CLI em **Java** com taxas em tempo real
 
 ---
 
@@ -119,14 +123,18 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ---
 
-## 📜 Certificações
+## 🎖️ Certificação
 
-- 🎖️ **GitHub Foundations** - GitHub (Válido até 05/2027)
-- 🎖️ **Foundational C# with Microsoft** - Microsoft/FreeCodeCamp
-- 🎖️ **Recode Pro AI** - Capacitação Full Stack e IA (540h)
-- 🎖️ **Formação Java Fundamentals** - DIO
-- 🎖️ **Fundamentos para Desenvolvimento de Software** - Microsoft/LinkedIn
-- 🎖️ **Ferramentas e Aplicações da Inteligência Artificial** - Descomplica
+<div align="center">
+
+<a href="https://www.credly.com/badges/0790c787-5740-4200-bb6c-4eb8536b5d1b/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification" width="150"/>
+</a>
+
+**GitHub Foundations**  
+*Válido até Maio 2027*
+
+</div>
 
 ---
 
@@ -134,12 +142,9 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 <div align="center">
 
-📍 **Cascavel, Paraná, Brasil**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-breaugustocp-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/breaugustocp)
 [![Email](https://img.shields.io/badge/Email-breaugustocp@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breaugustocp@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-brenoaug-100000?style=for-the-badge&logo=github)](https://github.com/brenoaug)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(98)_98728--8497-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598987288497)
 
 </div>
 
