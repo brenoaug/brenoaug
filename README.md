@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Courage on Computer" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloenkycXJmdWtsZ3hkYnc2YmloM3U2aWg3bHp0ZWptYTJmb3gzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif">
+<img align="right" alt="Courage on Computer" width="250" style="max-width: 100%; margin-left: 15px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloenkycXJmdWtsZ3hkYnc2YmloM3U2aWg3bHp0ZWptYTJmb3gzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif">
 
 Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C#/.NET**, buscando oportunidades como **Desenvolvedor Back-end Júnior** ou **Full Stack Júnior**.
 
