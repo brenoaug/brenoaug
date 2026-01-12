@@ -19,8 +19,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C#/.NET**, buscando oportunidades como **Desenvolvedor Back-end Júnior** ou **Full Stack Júnior**.
 
 🏆 **Conquista:** 1º lugar no ranking individual do **Recode Pro AI (540h)**
@@ -80,9 +78,9 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97)
+<img src="https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
 
 </div>
 
@@ -90,23 +88,78 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ## 🚀 Projetos em Destaque
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏥 [Voll Med](https://github.com/brenoaug/voll-med)
-Backend de uma clínica médica com **Java** e **Spring Boot**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+Sistema de gerenciamento para clínica médica com API REST completa. Implementa autenticação JWT, validações, paginação e boas práticas de desenvolvimento backend.
+
+</td>
+<td width="50%">
 
 ### 🎤 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
-Projeto Full Stack completo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+Projeto Full Stack que conecta profissionais da saúde mental com pacientes. Backend em Java/Spring Boot e frontend em React, com sistema de agendamentos e gestão de consultas.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🌸 [Hanami Backend](https://github.com/brenoaug/hanami-backend)
-API que processa arquivos CSV com **Java** e **Spring Boot**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+API REST para processamento e análise de arquivos CSV. Implementa upload de arquivos, validação de dados, persistência em banco e geração de relatórios.
+
+</td>
+<td width="50%">
 
 ### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
-Projeto em **C#/.NET** com Onion Architecture
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architecture). Demonstra princípios SOLID, injeção de dependências e padrões de design.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
-API com mensageria em **C#**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+Implementação de mensageria assíncrona com RabbitMQ. API publica mensagens que são consumidas por aplicação Console, demonstrando comunicação entre serviços.
+
+</td>
+<td width="50%">
 
 ### 💱 [Conversor de Moedas](https://github.com/brenoaug/conversor-moedas)
-Conversor CLI em **Java** com taxas em tempo real
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Aplicação CLI que consome API externa para conversão de moedas em tempo real. Interface interativa com menu de opções e tratamento de erros.
+
+</td>
+</tr>
+</table>
 
 ---
 
