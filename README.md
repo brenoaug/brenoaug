@@ -67,14 +67,18 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brenoaug&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoaug&bg_color=0d1117&color=79ff97&line=79ff97&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenoaug&theme=github_dark" alt="Profile Summary" />
 </p>
 
 ---
