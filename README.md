@@ -28,19 +28,19 @@ Desenvolvi projetos acadêmicos e práticos envolvendo Java, Spring Boot, Python
 ## 💼 Experiência Profissional
 
 **🚗 Localiza&Co** | Desenvolvedor Back-end (Residência)  
-*Outubro 2025 - Presente*
+*Outubro 2025 - Atual*
 - Desenvolvimento com C# e .NET em ecossistema de Pós-vendas
 - Eliminação de 100+ code smells guiado por métricas do SonarQube
 - Colaboração em rituais ágeis (Scrum) e Code Review
 
 **💧 CAEMA** | Estagiário de TI  
-*Fevereiro 2025 - Presente*
+*Fevereiro 2025 - Janeiro 2026*
 - Suporte técnico e atendimento direto a clientes
 - Manutenção e montagem de computadores
 - Diagnóstico e resolução de falhas em sistemas
 
 **🎓 Recode** | Capacitação Full Stack e IA  
-*Novembro 2024 - Agosto 2025*
+*Novembro 2024 - Julho 2025*
 - Programa intensivo de 540 horas
 - **🏆 1º Lugar no Ranking Individual**
 - Foco em Java, Spring Boot, Python e tecnologias frontend
