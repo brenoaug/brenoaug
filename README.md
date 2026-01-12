@@ -3,13 +3,15 @@
   
 # 👋 Olá, sou Breno Augusto
 
-### Desenvolvedor Back-end | Java • Spring Boot • C# • .NET
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79FF97&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Back-end;Java+%E2%80%A2+Spring+Boot;C%23+%E2%80%A2+.NET;Full+Stack+Developer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breaugustocp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenoaug)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breaugustocp@outlook.com)
 
-[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/0790c787-5740-4200-bb6c-4eb8536b5d1b/linked_in_profile)
+<a href="https://www.credly.com/badges/0790c787-5740-4200-bb6c-4eb8536b5d1b/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="120"/>
+</a>
 
 </div>
 
@@ -17,11 +19,17 @@
 
 ## 👨‍💻 Sobre Mim
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C#/.NET**, buscando oportunidades como **Desenvolvedor Back-end Júnior** ou **Full Stack Júnior**.
 
-Participei de programas intensivos como o **Recode Pro AI (540h)** - onde conquistei o **🏆 1º lugar no ranking individual** - e atualmente estou em uma **Residência Técnica em C#/.NET na Localiza&Co**, aplicando boas práticas de engenharia e padrões de arquitetura em projetos reais.
+🏆 **Conquista:** 1º lugar no ranking individual do **Recode Pro AI (540h)**
 
-Desenvolvi projetos acadêmicos e práticos envolvendo Java, Spring Boot, Python, React, Angular e bancos de dados SQL/NoSQL, sempre com foco em organização, comunicação clara e resolução estruturada de problemas.
+🎯 **Atualmente:** Residência Técnica em C#/.NET na **Localiza&Co**
+
+💡 **Foco:** Boas práticas de engenharia, padrões de arquitetura e desenvolvimento de APIs RESTful
+
+📚 **Tecnologias:** Java, Spring Boot, C#, .NET, Python, React, Angular, MySQL, MongoDB
 
 ---
 
@@ -29,21 +37,12 @@ Desenvolvi projetos acadêmicos e práticos envolvendo Java, Spring Boot, Python
 
 **🚗 Localiza&Co** | Desenvolvedor Back-end (Residência)  
 *Outubro 2025 - Atual*
-- Desenvolvimento com C# e .NET em ecossistema de Pós-vendas
-- Eliminação de 100+ code smells guiado por métricas do SonarQube
-- Colaboração em rituais ágeis (Scrum) e Code Review
 
 **💧 CAEMA** | Estagiário de TI  
 *Fevereiro 2025 - Janeiro 2026*
-- Suporte técnico e atendimento direto a clientes
-- Manutenção e montagem de computadores
-- Diagnóstico e resolução de falhas em sistemas
 
-**🎓 Recode** | Capacitação Full Stack e IA  
+**🎓 Recode** | Capacitação Full Stack e IA 🏆  
 *Novembro 2024 - Julho 2025*
-- Programa intensivo de 540 horas
-- **🏆 1º Lugar no Ranking Individual**
-- Foco em Java, Spring Boot, Python e tecnologias frontend
 
 ---
 
@@ -81,11 +80,12 @@ Desenvolvi projetos acadêmicos e práticos envolvendo Java, Spring Boot, Python
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoaug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaug&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaug&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&langs_count=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brenoaug&theme=dark&hide_border=true&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=79ff97)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brenoaug&theme=github-compact&hide_border=true&bg_color=0d1117&color=79ff97&line=79ff97&point=c9d1d9" alt="Activity Graph"/>
 
 </div>
 
@@ -93,20 +93,16 @@ Desenvolvi projetos acadêmicos e práticos envolvendo Java, Spring Boot, Python
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 [Voll Med](https://github.com/brenoaug/voll-med)
-Backend de uma clínica médica desenvolvido com **Java** e **Spring Boot**
+<div align="center">
 
-### 🌸 [Hanami Backend](https://github.com/brenoaug/hanami-backend)
-API que processa arquivos CSV com **Java** e **Spring Boot**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=voll-med&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/voll-med)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=hanami-backend&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/hanami-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=loja-online&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/loja-online)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=rabbitmq-exercise&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/rabbitmq-exercise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=conversor-moedas&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/conversor-moedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenoaug&repo=recode-projeto-social&theme=dark&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)](https://github.com/brenoaug/recode-projeto-social)
 
-### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
-Projeto em **C#/.NET** com Onion Architecture e injeção de dependências
-
-### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
-API que publica mensagens consumidas por aplicação Console em **C#**
-
-### 💱 [Conversor de Moedas](https://github.com/brenoaug/conversor-moedas)
-Conversor CLI em **Java** com taxas em tempo real via API
+</div>
 
 ---
 
