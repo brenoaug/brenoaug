@@ -5,7 +5,7 @@
 
 ### Desenvolvedor Back-End | Java | C# | Spring Boot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Especialista+em+Java+%26+Spring+Boot;Focado+em+APIs+REST+e+Microsservi%C3%A7os;Em+transi%C3%A7%C3%A3o+para+a+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Especialista+em+Java+%26+Spring+Boot;Focado+em+APIs+REST+e+Microservi%C3%A7os;Em+transi%C3%A7%C3%A3o+para+a+Tecnologia)](https://git.io/typing-svg)
 
 ---
 
