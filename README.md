@@ -15,6 +15,8 @@
 
 ## 👨‍💻 Sobre Mim
 
+<img align="right" alt="Courage on Computer" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloenkycXJmdWtsZ3hkYnc2YmloM3U2aWg3bHp0ZWptYTJmb3gzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif">
+
 Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C#/.NET**, buscando oportunidades como **Desenvolvedor Back-end Júnior** ou **Full Stack Júnior**.
 
 🏆 **Conquista:** 1º lugar no ranking individual do **Recode Pro AI (540h)**
@@ -200,7 +202,7 @@ Aplicação CLI que consome API externa para conversão de moedas em tempo real.
   
 ### 💡 Aberto a oportunidades como Desenvolvedor Back-end Júnior ou Full Stack Júnior
 
-*"Procuro evoluir continuamente, contribuir com responsabilidade e agregar valor ao time desde o início."*
+<img src="https://media.giphy.com/media/12XxYnYLMEn6yA/giphy.gif" alt="Regular Show" width="400"/>
 
 </div>
 
