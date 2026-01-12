@@ -43,7 +43,7 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -101,7 +101,7 @@ Sistema de gerenciamento para clínica médica com API REST completa. Implementa
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 Projeto Full Stack que conecta profissionais da saúde mental com pacientes. Backend em Java/Spring Boot e frontend em React, com sistema de agendamentos e gestão de consultas.
 
@@ -114,7 +114,7 @@ Projeto Full Stack que conecta profissionais da saúde mental com pacientes. Bac
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-09476B?style=flat-square&logo=h2database&logoColor=white)
 
 API REST para processamento e análise de arquivos CSV. Implementa upload de arquivos, validação de dados, persistência em banco e geração de relatórios.
 
@@ -123,7 +123,7 @@ API REST para processamento e análise de arquivos CSV. Implementa upload de arq
 
 ### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architecture). Demonstra princípios SOLID, injeção de dependências e padrões de design.
@@ -135,7 +135,7 @@ Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architectur
 
 ### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
