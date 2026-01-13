@@ -103,7 +103,7 @@ Sistema de gerenciamento para clínica médica com API REST completa. Implementa
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-Projeto Full Stack que conecta profissionais da saúde mental com pacientes. Backend em Java/Spring Boot e frontend em React, com sistema de agendamentos e gestão de consultas.
+Projeto Full Stack para denúncias de violência contra a comunidade LGBTQIAPN+, com backend em Java/Spring Boot e frontend em React, utilizando Spring Security para proteção dos dados.
 
 </td>
 </tr>
