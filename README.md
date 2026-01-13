@@ -34,7 +34,7 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 *Outubro 2025 - Atual*
 
 **💧 CAEMA** | Estagiário de TI  
-*Fevereiro 2025 - Janeiro 2026*
+*Fevereiro 2025 - Atual*
 
 ---
 
