@@ -96,7 +96,7 @@ Sistema de gerenciamento para clínica médica com API REST completa. Implementa
 </td>
 <td width="50%">
 
-### 🎤 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
+### 🌈 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
