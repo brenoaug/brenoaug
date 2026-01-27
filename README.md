@@ -85,6 +85,8 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 <tr>
 <td width="50%">
 
+<div>
+
 ### 🏥 [Voll Med](https://github.com/brenoaug/voll-med)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -93,8 +95,12 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 Sistema de gerenciamento para clínica médica com API REST completa. Implementa autenticação JWT, validações, paginação e boas práticas de desenvolvimento backend.
 
+</div>
+
 </td>
 <td width="50%">
+
+<div>
 
 ### 🌈 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
 
@@ -107,10 +113,14 @@ Sistema de gerenciamento para clínica médica com API REST completa. Implementa
 
 Projeto Full Stack para denúncias de violência contra a comunidade LGBTQIAPN+, com backend em Java/Spring Boot e frontend em React, utilizando Spring Security para proteção dos dados.
 
+</div>
+
 </td>
 </tr>
 <tr>
 <td width="50%">
+
+<div>
 
 ### 🌸 [Hanami Backend](https://github.com/brenoaug/hanami-backend)
 
@@ -120,9 +130,13 @@ Projeto Full Stack para denúncias de violência contra a comunidade LGBTQIAPN+,
 
 API REST para processamento e análise de arquivos CSV. Implementa upload de arquivos, validação de dados, persistência em banco e geração de relatórios.
 
+</div>
+
 </td>
 <td width="50%">
 
+<div>
+  
 ### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -130,10 +144,14 @@ API REST para processamento e análise de arquivos CSV. Implementa upload de arq
 
 Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architecture). Demonstra princípios SOLID, injeção de dependências e padrões de design.
 
+</div>
+
 </td>
 </tr>
 <tr>
 <td width="50%">
+
+<div>
 
 ### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
 
@@ -143,14 +161,20 @@ Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architectur
 
 Implementação de mensageria assíncrona com RabbitMQ. API publica mensagens que são consumidas por aplicação Console, demonstrando comunicação entre serviços.
 
+</div>
+
 </td>
 <td width="50%">
+
+<div>
 
 ### 💱 [Conversor de Moedas](https://github.com/brenoaug/conversor-moedas)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 Aplicação CLI que consome API externa para conversão de moedas em tempo real. Interface interativa com menu de opções e tratamento de erros.
+
+</div>
 
 </td>
 </tr>
