@@ -87,9 +87,9 @@ Desenvolvedor Back-end com experiência prática em **Java (Spring Boot)** e **C
 
 ### 🏥 [Voll Med](https://github.com/brenoaug/voll-med)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 Sistema de gerenciamento para clínica médica com API REST completa. Implementa autenticação JWT, validações, paginação e boas práticas de desenvolvimento backend.
 
@@ -98,12 +98,12 @@ Sistema de gerenciamento para clínica médica com API REST completa. Implementa
 
 ### 🌈 [Projeto Vozes](https://github.com/brenoaug/projeto-vozes)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 Projeto Full Stack para denúncias de violência contra a comunidade LGBTQIAPN+, com backend em Java/Spring Boot e frontend em React, utilizando Spring Security para proteção dos dados.
 
@@ -114,9 +114,9 @@ Projeto Full Stack para denúncias de violência contra a comunidade LGBTQIAPN+,
 
 ### 🌸 [Hanami Backend](https://github.com/brenoaug/hanami-backend)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2_Database-09476B?style=flat-square&logo=h2database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 API REST para processamento e análise de arquivos CSV. Implementa upload de arquivos, validação de dados, persistência em banco e geração de relatórios.
 
@@ -125,8 +125,8 @@ API REST para processamento e análise de arquivos CSV. Implementa upload de arq
 
 ### 🏪 [Loja Online](https://github.com/brenoaug/loja-online)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 
 Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architecture). Demonstra princípios SOLID, injeção de dependências e padrões de design.
 
@@ -137,9 +137,9 @@ Sistema de e-commerce desenvolvido com arquitetura em camadas (Onion Architectur
 
 ### 🐰 [RabbitMQ Exercise](https://github.com/brenoaug/rabbitmq-exercise)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?logo=RabbitMQ&logoColor=white)
 
 Implementação de mensageria assíncrona com RabbitMQ. API publica mensagens que são consumidas por aplicação Console, demonstrando comunicação entre serviços.
 
@@ -148,7 +148,7 @@ Implementação de mensageria assíncrona com RabbitMQ. API publica mensagens qu
 
 ### 💱 [Conversor de Moedas](https://github.com/brenoaug/conversor-moedas)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 Aplicação CLI que consome API externa para conversão de moedas em tempo real. Interface interativa com menu de opções e tratamento de erros.
 
@@ -203,6 +203,3 @@ Aplicação CLI que consome API externa para conversão de moedas em tempo real.
 
 </div>
 
-<!---
-brenoaug/brenoaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
