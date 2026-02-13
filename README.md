@@ -1,6 +1,6 @@
 <div align=center>
 
-# Breno Augusto
+# Hello there, i'm Breno
 
 </div>
 
@@ -10,10 +10,9 @@
 - **Education:** Systems Analysis and Development at **UniAmérica Descomplica**.
 ---
 
-### Tech Stack
-- **Languages:** Java, C#, Python, JavaScript.
-- **Frameworks:** Spring Boot, .NET Core, React, Angular.
-- **Data & Infra:** MySQL, MongoDB, Docker, Azure.
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brenoaug&theme=transparent&exclude=html,css&title_color=417e87">
+</p>
 
 ---
 
